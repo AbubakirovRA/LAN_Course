@@ -126,3 +126,6 @@ dmypy.json
 
 # ignore mp4 files
 *.mp4
+
+# ignore file
+Настройки и инструкции.txt
