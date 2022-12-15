@@ -127,9 +127,6 @@ dmypy.json
 # ignore mp4 files
 *.mp4
 
-# ignore file
-Настройки и инструкции.txt
+# ignore rar files
+*.rar
 
-homework_8.ppk
-
-lancourse.ddns.net.crt
